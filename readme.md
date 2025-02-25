@@ -40,4 +40,4 @@ Este proyecto es una API construida con Flask que interactúa con la API de Goog
 
 Para ejecutar la aplicación Flask, usa el siguiente comando:
 ```bash
-python main.py
+python app.py
